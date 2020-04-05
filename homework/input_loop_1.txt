@@ -1,0 +1,5 @@
+1
+Win(Trump)
+2
+Win(Trump) => Lose(Kim)
+Lose(Kim) => Win(Trump)

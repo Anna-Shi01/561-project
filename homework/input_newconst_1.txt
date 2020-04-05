@@ -1,0 +1,4 @@
+1
+Object(Door)
+1
+Object(x)
